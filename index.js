@@ -1,1 +1,1 @@
-var receipes={Biryani:'Masala'}
+var object={}
