@@ -1,3 +1,7 @@
 var recipes={}
 
-updateObjectWithKeyAndValue=()=>{}
+updateObjectWithKeyAndValue=(recipes,prop,prop2)=>{
+  prop:1,
+  prop2:2
+  return recipes;
+}
